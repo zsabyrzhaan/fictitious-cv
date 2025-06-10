@@ -11,4 +11,4 @@ A simple fictional resume for a frontend developer, built with HTML and CSS.
 This project was made for fun and practice — to experiment with building a CV as a web page.
 
 ## Live Demo
-[View it on GitHub Pages](https://yourusername.github.io/your-repo-name)
+[View it on GitHub Pages](https://zsabyrzhaan.github.io/fictitious-cv/)
